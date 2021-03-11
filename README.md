@@ -1,0 +1,2 @@
+# SkaziteChtoGovorit
+Расписание для МГПУ
