@@ -7,4 +7,4 @@
 - Продукт : чат-бот в телеграмме
 
 Наша команда
-![alt text](https://vk.com/nastyajessy?z=photo13227033_457249484%2Falbum13227033_0%2Frev)
+![Анастасия](https://github.com/nastyajessy/SkaziteChtoGovorit/blob/main/C2pATWhWat8.jpg)
