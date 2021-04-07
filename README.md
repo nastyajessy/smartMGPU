@@ -6,9 +6,5 @@
 - Ресурсные ограничения : временные (как скажет заказчик, предположительно 2 месяца), кадровые (3 человека), финансовые (у нас нет денег)
 - Продукт : чат-бот в телеграмме
 
-Статьи расходов
+Смета
 ![Статьи расходов](https://github.com/nastyajessy/SkaziteChtoGovorit/blob/main/статья%20расходов.PNG)
-
-
-Наша команда
-![Анастасия](https://github.com/nastyajessy/SkaziteChtoGovorit/blob/main/C2pATWhWat8.jpg) ![Алексей](https://github.com/nastyajessy/SkaziteChtoGovorit/blob/main/sFewigwmr9Q.jpg) ![Мария](https://github.com/nastyajessy/SkaziteChtoGovorit/blob/main/jdWUhEXJt8Q.jpg)
